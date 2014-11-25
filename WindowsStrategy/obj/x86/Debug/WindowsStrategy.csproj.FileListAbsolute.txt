@@ -1,0 +1,9 @@
+F:\projects\WindowsStrategy\WindowsStrategy\bin\Debug\WindowsStrategy.exe
+F:\projects\WindowsStrategy\WindowsStrategy\bin\Debug\WindowsStrategy.pdb
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\WindowsStrategy.Form1.resources
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\WindowsStrategy.Properties.Resources.resources
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\WindowsStrategy.exe
+F:\projects\WindowsStrategy\WindowsStrategy\obj\x86\Debug\WindowsStrategy.pdb
